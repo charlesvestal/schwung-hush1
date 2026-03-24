@@ -1,4 +1,4 @@
-import { createSoundGeneratorUI } from '/data/UserData/move-anything/shared/sound_generator_ui.mjs';
+import { createSoundGeneratorUI } from '/data/UserData/schwung/shared/sound_generator_ui.mjs';
 
 const ui = createSoundGeneratorUI({
   moduleName: 'SH-101',
